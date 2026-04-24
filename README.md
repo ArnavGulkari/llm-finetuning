@@ -99,6 +99,4 @@ decomposition matrices into transformer layers.
 
 ---
 
-## License
 
-MIT License
